@@ -1,6 +1,9 @@
 # coaching_app_ui
 
-A new Flutter application.
+UI inspired by [Michał Roszyk](https://dribbble.com/shots/4486758-Relationship-Coaching-App/attachments/1017305)
+
+## Screenshot
+![Coaching App UI](../Screenshots/coaching_app.png)
 
 ## Getting Started
 
