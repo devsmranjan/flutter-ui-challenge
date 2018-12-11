@@ -206,7 +206,7 @@ class MyHomePage extends StatelessWidget {
                   decoration: BoxDecoration(
                       color: isOnline?Colors.green: Colors.orange,
                       borderRadius: BorderRadius.circular(12.0),
-                      border: Border.all(color: Colors.white, width: 4.0)
+                      border: Border.all(color: Colors.white, width: 4.0, ),
                   ),
                 ),
               )
